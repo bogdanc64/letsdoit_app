@@ -1,0 +1,18 @@
+.TaskWrapper{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+input{
+    flex:none;
+}
+
+.todo-item{
+    padding:10px;
+}
+
+.todo-item span {
+    padding-left:10px;
+}
